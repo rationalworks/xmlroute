@@ -1,8 +1,0 @@
-﻿  xmlroute.c
-C:\Users\Praveen\source\repos\xmlroute\xmlroute\xmlroute.c(397,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-C:\Users\Praveen\source\repos\xmlroute\xmlroute\xmlroute.c(236): warning C4716: 'HostAddr2String': must return a value
-  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  xmlroute.vcxproj -> C:\Users\Praveen\source\repos\xmlroute\Release\xmlroute.exe
