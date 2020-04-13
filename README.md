@@ -16,3 +16,6 @@ In the interest of orderly output, this program ceases all tracerouting activiti
 ## Changes:
 * It has been modified to continue even if one or more node is un-reachable. 
 * The project has been converted to visual studio project.
+
+## Contributors:
+Praveen Kumar | praveen.sirt@gmail.com
